@@ -1,4 +1,4 @@
-package outils
+package main
 
 import (
 	"bufio"

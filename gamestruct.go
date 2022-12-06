@@ -1,4 +1,4 @@
-package gamestruct
+package main
 
 type Game struct {
 	Wordtested string
