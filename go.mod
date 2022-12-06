@@ -1,3 +1,3 @@
-module hang
+module youssoufmiyad/hang
 
 go 1.19
